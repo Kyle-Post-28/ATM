@@ -1,0 +1,2 @@
+# ATM
+This is an ATM GUI that simulates the user using an ATM machine with multiple accounts that can hold various amounts in them. These amounts can be withdrawn, deposited, transferred and the account balance can even be checked. This include the creation of an insufficient funds error that is thrown if the user doesn't have enough money in the accounts. (Made it for a homework assignment an eventually would like to add on to it and polish it up.)
